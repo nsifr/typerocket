@@ -1,0 +1,11 @@
+{
+    "name": "nsifr/typerocket",
+    "description": "Plugin TypeRocket",
+    "type": "wordpress-muplugin",
+    "authors": [
+        {
+            "name": "Fabien LEGE",
+            "email": "fabien.lege@ho5group.com"
+        }
+    ]
+}
